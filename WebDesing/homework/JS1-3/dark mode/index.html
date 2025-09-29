@@ -26,12 +26,16 @@
 </body>
 <script>
   let text = document.getElementById("title");
+  let main = document.querySelector(".main");
+  let articule = document.querySelector(".article");
 
   let now = new Date();
   let hours = now.getHours();
 
   if (hours > 19) {
     document.body.classList.toggle("dark")
+    main.classList.toggle("dark")
+    articule.classList.toggle("dark");
     console.log("Dark Mode active")
   } else {
     console.log("Light Mode active")
