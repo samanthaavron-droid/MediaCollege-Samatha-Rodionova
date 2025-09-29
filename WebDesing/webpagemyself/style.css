@@ -3,6 +3,12 @@
   align-items: center; 
 }
 
+.block2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 #p1 {
     display: block;
     white-space: normal;
