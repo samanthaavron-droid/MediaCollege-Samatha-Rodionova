@@ -1,9 +1,9 @@
 Task 3.1A:
-![[3.1a.mp4]]
+[video 1](3.1a.mp4)
 
 Task 3.1B:
-![[3.1b.mvk]]
-![[3.1b2.mkv]]
+[video 2](3.1b.mkv)
+[video 3](3.1b2.mkv)
 
 Task 3.1C:
-![[3.1c.mkv]]
+[video 4](3.1c.mkv)
