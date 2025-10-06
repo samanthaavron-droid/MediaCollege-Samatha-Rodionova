@@ -1,8 +1,8 @@
 Task 2.1A: Draaiend muntje (Coin)
-(video1)[rotatingcoin.mp4]
+[video1](rotatingcoin.mp4)
 
 Task 2.1B: Heen-en-weer beweging (Goomba)
-(video2)[goomba.mp4]
+[video2](goomba.mp4)
 
 Task 2.1C: Cirkelbeweging (Boo)
-(video3)[orbit.mp4]
+[video3](orbit.mp4)
